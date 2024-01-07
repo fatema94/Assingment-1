@@ -1,0 +1,75 @@
+.head{
+    padding: 150px;
+     background-image: url(/resources/Banner\ Image.png); 
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+    margin-bottom: 0px;
+}
+
+.head1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+.head2{
+    text-align: center;
+    font-size: 80px;
+    font-weight: 900;
+    color: white;
+}
+.discount{
+    padding: 0px;
+    text-align: center;
+    color: red;
+    font-size: 80px;
+    font-weight: 800;
+}
+.holiday{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    font-weight: 700;
+}
+.catagories{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    display: flex;
+    background-image: url(/resources/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-left: 100px;
+    margin-top: 20px;
+    position: absolute;
+}
+.welcome{
+    align-items: center;
+    padding: 60px;
+    color: white;
+    max-width: 650px;
+}
+.welcome1{
+    font-size: 70px;
+    font-weight: 800;
+    color: white;
+}
+.welcome-p{
+    font-size: 20px;
+}
+.join{
+    font-size: 40px;
+}
+.image2{
+    padding: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
