@@ -268,7 +268,7 @@ li{
 }
 .contact{
     margin: 50px;
-    justify-content: space-around;
+    justify-content: center;
     padding-left: 450px;
     padding-bottom: 50px;
     border-bottom: 0.5px solid white;
