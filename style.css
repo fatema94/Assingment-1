@@ -157,7 +157,7 @@ body{
     justify-content: space-around;
     margin-bottom: -6px;
     justify-content: right;
-    padding-left: 945px;
+    padding-left: 800px;
 }
 .design{
     border-radius: 16px 16px 0px 0px;    
@@ -170,7 +170,7 @@ body{
 .percent-img{
     position:absolute;
     margin-bottom: 0px;
-    padding-left: 800px;
+    padding-left: 650px;
     padding-top: 100px;
 }
 .bg-image{
@@ -183,9 +183,9 @@ body{
 }
 .gifts{
     padding: 0px;
-    margin: 20px;
-    width: 90%;
-    margin-left: 20px;
+    margin: 0px;
+    width: 98%;
+    margin-left: 10px;
 }
 .g-tittle{
     color: red;
@@ -202,10 +202,10 @@ li{
     list-style: none;
 }
 .list1{
-    margin: 5px;
+    margin: 3px;
 }
 .list2{
-    margin: 5px;
+    margin: 3px;
 }
 .news{
     border-radius: 16px;
