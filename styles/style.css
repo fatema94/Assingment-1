@@ -4,7 +4,7 @@ body{
 
 .head{
     padding: 150px;
-    background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) ,url(./resources/Banner\ Image.png); 
+    background-image:linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%) ,url(../resources/Banner\ Image.png); 
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -51,7 +51,7 @@ body{
 }
 .container{
     display: flex;
-    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(./resources/Vectorrr.png);
+    background-image:linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(../resources/Vectorrr.png);
     /* background-repeat: no-repeat; */
     background-position: center;
     background-size: cover;
