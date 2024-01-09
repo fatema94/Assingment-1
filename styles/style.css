@@ -150,9 +150,37 @@ body{
     color: red;
 }
 .bg-image{
-    padding: 100px;
-    background-image: url(/resources/Rectangle\ 2.png);
+    padding: 50px;
+    /* background-image: url(/resources/Rectangle\ 2.png); */
     background-size: cover;
+}
+.girl{
+    justify-content: space-around;
+    margin-bottom: -4px;
+    justify-content: right;
+    padding-left: 1245px;
+}
+.design{
+    border-radius: 16px 16px 0px 0px;    
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    position: absolute;
+}
+.percent-img{
+    position:absolute;
+    margin-bottom: 0px;
+    padding-left: 1100px;
+    padding-top: 100px;
+}
+.bg-image{
+    margin: 0px;
+}
+.line{
+    width: 100%;
+    height: 300px;
+    margin: 0px;
 }
 .gifts{
     padding: 100px;
@@ -204,7 +232,25 @@ li{
 }
 .input-btn{
     display: block;
+    margin: -4px;
     margin-left: 550px;
+}
+#s-button{
+    padding: 15px 25px;
+    margin-right: -4px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border: none;
+
+    
+}
+.sub-btn{
+    padding: 15px 25px;
+    background-color: red;
+    color: white;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    border: none;
 }
 .foot{
     background-color: #070211;
@@ -214,15 +260,24 @@ li{
     color: white;
     display: flex;
     justify-content: space-between;
-    padding: 150px;
+    padding: 130px 50px;
+    margin: 50px;
+    border-bottom: 0.5px solid white;
+}
+.phone{
+    margin-top: 5px;
 }
 .contact{
+    margin: 50px;
     padding-left: 700px;
+    padding-bottom: 50px;
+    border-bottom: 0.5px solid white;
 }
 .contact-img{
     padding: 10px;
 }
 .finish{
+    margin: 30px;
     display:flex;
     justify-content: space-between;
     padding: 120px;
