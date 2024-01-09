@@ -155,9 +155,9 @@ body{
 }
 .girl{
     justify-content: space-around;
-    margin-bottom: -4px;
+    margin-bottom: -6px;
     justify-content: right;
-    padding-left: 1245px;
+    padding-left: 945px;
 }
 .design{
     border-radius: 16px 16px 0px 0px;    
@@ -170,7 +170,7 @@ body{
 .percent-img{
     position:absolute;
     margin-bottom: 0px;
-    padding-left: 1100px;
+    padding-left: 800px;
     padding-top: 100px;
 }
 .bg-image{
@@ -182,10 +182,10 @@ body{
     margin: 0px;
 }
 .gifts{
-    padding: 100px;
-    margin: 50px;
-    width: 80%;
-    margin-left: 120px;
+    padding: 0px;
+    margin: 20px;
+    width: 90%;
+    margin-left: 20px;
 }
 .g-tittle{
     color: red;
@@ -202,10 +202,10 @@ li{
     list-style: none;
 }
 .list1{
-    margin: 10px;
+    margin: 5px;
 }
 .list2{
-    margin: 10px;
+    margin: 5px;
 }
 .news{
     border-radius: 16px;
